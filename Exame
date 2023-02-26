@@ -11,7 +11,7 @@
 }
 
 img{
-   user-select: none;
+   user-select:none;
 }
 
 $green:#0eb582;
